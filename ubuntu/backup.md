@@ -16,5 +16,6 @@
 5. shadowsocks https://www.mystery0.vip/2017/01/12/Ubuntu%E4%BD%BF%E7%94%A8Shadowsocks-qt5%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/
 6. typora https://typora.io/
 7. shutter https://www.cnblogs.com/CZM-/p/5858759.html
-8. pinta (optional) https://pinta-project.com/pintaproject/pinta/releases
+8. albert https://www.jianshu.com/p/c8b79ba7fa69
+9. pinta (optional) https://pinta-project.com/pintaproject/pinta/releases
 
